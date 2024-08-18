@@ -1,0 +1,2 @@
+1. If we need to find common bits just do 'and'.
+2. 
